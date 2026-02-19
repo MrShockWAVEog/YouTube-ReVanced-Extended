@@ -2,7 +2,7 @@
 
 Extensive ReVanced builder  
 
-Get the [latest CI release](https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases).
+Get the [latest CI release](https://github.com/MrShockWAVEog/YouTube-ReVanced-Extended/releases).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
