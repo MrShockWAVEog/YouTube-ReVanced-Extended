@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches dev.3.mpp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/MrShockWAVEog/Youtube_Revanced_Extended/releases/download/1/youtube-music-revanced-extended-magisk-v8.30.54-arm64-v8a.zip",
-  "changelog": "https://raw.githubusercontent.com/MrShockWAVEog/Youtube_Revanced_Extended/update/build.md"
+  "version": "v8.30.54 (patches dev.4.mpp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/MrShockWAVEog/YouTube-ReVanced-Extended/releases/download/2/youtube-music-revanced-extended-magisk-v8.30.54-arm64-v8a.zip",
+  "changelog": "https://raw.githubusercontent.com/MrShockWAVEog/YouTube-ReVanced-Extended/update/build.md"
 }
